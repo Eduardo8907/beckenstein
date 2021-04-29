@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	color: #ffffff;
+	background: #413f3b url("https://upload.wikimedia.org/wikipedia/commons/a/a6/Fabric_%28504391407%29.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin: 0px;
+	text-align: center;
+}
+a {
+	color: #766B6B;
+	text-decoration: none;
+}
+a:hover {
+	color: dodgerblue;
+}
+
+.logo {
+	margin-bottom: 20px;
+    margin-top: 20px;
+    
+}
+h1 {
+    color: black;
+}
+h2 {
+    color: crimson;
+}
+h3 {
+    text-decoration: underline;
+}
+h3 a {
+    color: white;
+}
+.container {
+    width: 90%;
+    color: #000000;
+}
+hr {
+    color: #000000;
+    width: 90%;
+}
+footer {
+    color: black;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 110%;
+}
+footer a {
+    color: #000000;
+	text-decoration: none;
+}
+.container-fluid {
+    background: white;
+    border: 0px;
+    max-width: 90%;
+    padding-top: 2em;
+}
+.md-foot {
+    
+}
+img {
+    margin-bottom: 5px;
+    max-width: 100%;
+}
+.panel-heading {
+    font-size: 160%;
+}
+.panel {
+    margin-top: 10px;
+}
+#about {
+    border-top-style: dashed;
+    margin-bottom: 1.4em;
+}
+#aboutus {
+    text-align: left;
+}
+#call {
+    font-size: 120%;
+}
+.affix {
+      top: 0;
+      width: 100%;
+    z-index: 9999 !important;
+  }
+
+.affix ~ .container-fluid {
+      padding-top: 70px;
+    position:;
+  }
+.slideCap {
+    color: white;
+}
+.slideTitle {
+    text-decoration: none;
+}
+.carousel-caption {
+    background-color: rgb(0,0,0);
+    opacity: 0.7;
+}
+.slipCover {
+    color: black;
+    text-decoration: none;
+}
+p {
+    font-size: 110%;
+}
