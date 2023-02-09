@@ -1,6 +1,5 @@
 # Beckenstein
-Class Project - Website for the fabric store Beckenstein
-One of the few web design projects from school. 
+Web Design Class Project - Redesign website for the fabric store Beckenstein 
  
 In this project I had to redesign this website with the following client assesment:
 
